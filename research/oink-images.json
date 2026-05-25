@@ -1,0 +1,86 @@
+[
+  {
+    "src": "https://www.oink.bg/_next/image?url=https%3A%2F%2Fcdn.oink.bg%2Fgallery%2F97346%2Fce8a0f62-9011-4bd9-b6cb-25b5151a2383_large.webp&w=750&q=75",
+    "alt": "Дентални клиники MNL",
+    "w": 682,
+    "h": 455
+  },
+  {
+    "src": "https://www.oink.bg/_next/image?url=https%3A%2F%2Fcdn.oink.bg%2Fgallery%2F97346%2F6c108bdc-5356-41c7-91b2-2fc7c2a5eb3d_medium.webp&w=384&q=75",
+    "alt": "Дентални клиники MNL",
+    "w": 341,
+    "h": 227
+  },
+  {
+    "src": "https://www.oink.bg/_next/image?url=https%3A%2F%2Fcdn.oink.bg%2Fgallery%2F97346%2Fd5c2ef68-e517-4228-9833-bd747a37ca9a_medium.webp&w=384&q=75",
+    "alt": "Дентални клиники MNL",
+    "w": 341,
+    "h": 512
+  },
+  {
+    "src": "https://www.oink.bg/_next/image?url=https%3A%2F%2Fcdn.oink.bg%2Fgallery%2F97346%2F7b48506e-b5c7-4538-8fda-6ec68f0a0eef_medium.webp&w=384&q=75",
+    "alt": "Дентални клиники MNL",
+    "w": 341,
+    "h": 226
+  },
+  {
+    "src": "https://www.oink.bg/_next/image?url=https%3A%2F%2Fcdn.oink.bg%2Fgallery%2F97346%2F2b5e331e-7d29-4e13-8d15-80e1b7d18683_medium.webp&w=384&q=75",
+    "alt": "Дентални клиники MNL",
+    "w": 341,
+    "h": 226
+  },
+  {
+    "src": "https://api.oink.bg/businesses/static_map?longitude=23.37602090&latitude=42.63473830&key=258f631070d3ddfca941bba5445852e925ad29db0ff7b9c6236c76fb3a8b6ff1&lang=bg",
+    "alt": "Карта",
+    "w": 570,
+    "h": 260
+  },
+  {
+    "src": "https://www.oink.bg/_next/image?url=https%3A%2F%2Fcdn.oink.bg%2Fgallery%2F57402%2Fdfac8a38-e7fb-4435-bb9f-ea65f52db6b4_medium.webp&w=256&q=75",
+    "alt": "Дентална Клиника Д-р Николов",
+    "w": 232,
+    "h": 154
+  },
+  {
+    "src": "https://www.oink.bg/_next/image?url=https%3A%2F%2Fcdn.oink.bg%2Fgallery%2F137237%2Fd006dc08-4826-47d6-a428-7f2a4a412ea7_medium.webp&w=256&q=75",
+    "alt": "Дентална клиника ЗЪБОРАН - Zaboran dental clinic",
+    "w": 232,
+    "h": 232
+  },
+  {
+    "src": "https://www.oink.bg/_next/image?url=https%3A%2F%2Fcdn.oink.bg%2Fgallery%2F97484%2F7f5ed48a-b42f-42d9-9db5-b7798a525ee7_medium.webp&w=256&q=75",
+    "alt": "Dr.Daniel Dyulgerov",
+    "w": 232,
+    "h": 223
+  },
+  {
+    "src": "https://www.oink.bg/_next/image?url=https%3A%2F%2Fcdn.oink.bg%2Fgallery%2F74163%2F7e7ab6f3-b74c-402e-9b46-b5b4f16a4d26_medium.webp&w=256&q=75",
+    "alt": "ЕО Дент Специализирана детска дентална клиника, EO Dent Paediatric dental clinic (EO Dent Kids)",
+    "w": 232,
+    "h": 155
+  },
+  {
+    "src": "https://www.oink.bg/_next/image?url=https%3A%2F%2Fcdn.oink.bg%2Fgallery%2F142475%2Ff7ed91a6-b465-43a1-befa-7b1621a8cf24_medium.webp&w=256&q=75",
+    "alt": "Дентална клиника UNISON",
+    "w": 232,
+    "h": 174
+  },
+  {
+    "src": "https://www.oink.bg/_next/image?url=https%3A%2F%2Fcdn.oink.bg%2Fgallery%2F118159%2F0215d468-7f73-4f57-a082-3ef9a5815bd4_medium.webp&w=256&q=75",
+    "alt": "Туин дент",
+    "w": 232,
+    "h": 232
+  },
+  {
+    "src": "https://www.oink.bg/_next/image?url=https%3A%2F%2Fcdn.oink.bg%2Fgallery%2F57324%2F8b176d3a-dcfd-4f96-af0e-8d4983bf87df_medium.webp&w=256&q=75",
+    "alt": "Дентална клиника Лозенец / Lozenetz Dental Clinic",
+    "w": 232,
+    "h": 232
+  },
+  {
+    "src": "https://www.oink.bg/_next/image?url=https%3A%2F%2Fcdn.oink.bg%2Fgallery%2F144368%2Ff287af44-aa50-4b69-a40f-5841be554f8a_medium.webp&w=256&q=75",
+    "alt": "ARA CLINIC Implant Dental Аesthetic Center",
+    "w": 232,
+    "h": 309
+  }
+]
